@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Harshika Mohite, a MERN stack enthusiast.
 
 # 💫 About Me:
 🔭Delving into the fascinating world of AI.<br>🌱Passionate to merge my web dev skills with artificial intelligence!<br>⚡Secret love for math — solving equations feels like unraveling a mystery!<br><br>Goal for 2025: Craft an irresistible portfolio
